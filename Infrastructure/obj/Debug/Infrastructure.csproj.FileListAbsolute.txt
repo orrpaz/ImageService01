@@ -1,0 +1,5 @@
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

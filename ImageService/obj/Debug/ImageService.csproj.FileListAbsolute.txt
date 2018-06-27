@@ -1,0 +1,24 @@
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\Or\Documents\מדעי המחשב שנה ב'\תכנות מתקדם 2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Commands.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Commands.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Infrastructure.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\ImageService\bin\Debug\Infrastructure.pdb

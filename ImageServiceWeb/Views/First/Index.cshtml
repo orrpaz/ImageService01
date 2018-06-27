@@ -1,0 +1,22 @@
+﻿
+@*@{
+    ViewBag.Title = "Config";
+}
+
+<p>source name : @Model.sourceName</p>
+<p>thumbnail size : @Model.thumbnailSize</p>
+<p>output dir : @Model.outputDir</p>
+<p>log name : @Model.logName</p>
+@foreach (var path in Model.handlers)
+{
+    <li>
+        @Html.ActionLink(path, "askIfRemove", new { h = path })
+    </li>
+}*@
+
+@{
+    ViewBag.Title = "Config";
+}
+
+<h2>Index</h2>
+Welcome to Example!!!!

@@ -1,0 +1,9 @@
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Communication.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Communication.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Infrastructure.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Infrastructure.pdb
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\obj\Debug\Communication.dll
+C:\Users\Or\Documents\ComScience\AdvnceProgram2\targil\service\ImageService\ImageService\Communication\obj\Debug\Communication.pdb
